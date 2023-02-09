@@ -1,0 +1,28 @@
+id: A4C8C9B7C
+title: 'BA: Daśabhūmikasūtra'
+type: translation
+pechas:
+- I6465777A
+- IBB54B244
+- IA88616A0
+- I3D4D5270
+- IE8D311A9
+- I3CF227EC
+- I662F8F4F
+source_metadata:
+  languages:
+  - sa
+  - bo
+  - zh
+  - en
+  datatype: PlainText
+  created_at: 2023-02-09 14:41:55.284927
+  last_modified_at: 2023-02-09 14:41:55.284943
+alignment_to_base:
+  I6465777A/CEC4: CD47
+  IBB54B244/333F: CD47
+  IA88616A0/8247: CD47
+  I3D4D5270/34F5: CD47
+  IE8D311A9/F4C3: CD47
+  I3CF227EC/7DBD: CD47
+  I662F8F4F/F49C: CD47
